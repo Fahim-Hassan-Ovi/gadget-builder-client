@@ -10,7 +10,8 @@ Need to isntall this package:
 - react-helmet
 - react-hot-toast
 - react-icons
-- react-router-domsweetalert2
+- react-router-dom
+- sweetalert2
 
 Also need to install:
 - tailwindcss
